@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Layer.Architecture.Application</name>
+    </assembly>
+    <members>
+        <member name="M:Layer.Architecture.Application.Controllers.UserController.Create(Layer.Architecture.Domain.ViewModel.CreateUserModel)">
+            <summary>
+            Create
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
